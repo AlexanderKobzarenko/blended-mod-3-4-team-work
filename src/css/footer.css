@@ -2,10 +2,20 @@
   background-color: #1b414b;
 }
 
+.footer-top {
+  display: flex;
+  gap: 370px;
+}
+
 .footer-logo {
   font-weight: 500;
   font-size: 20px;
   letter-spacing: -0.03em;
+}
+
+.footer-nav-list {
+  display: flex;
+  gap: 4px;
 }
 
 .footer-nav-link {
@@ -20,6 +30,19 @@
 .footer-nav-link:focus {
   color: #1b414b;
   background-color: #fbfbfb;
+}
+
+.footer-socials {
+}
+.footer-socials-list {
+  display: flex;
+  gap: 11px;
+}
+.footer-socials-item {
+}
+.footer-socials-link {
+}
+.footer-socials-icon {
 }
 
 .footer-text {
