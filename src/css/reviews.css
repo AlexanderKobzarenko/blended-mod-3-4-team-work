@@ -1,8 +1,10 @@
 .reviews-title {
-  font-weight: 500;
+  background-color: aquamarine;
+  color: coral;
+  font-weight: 700;
   font-size: 48px;
-  line-height: 1;
-  letter-spacing: -0.02em;
+  line-height: 2;
+  letter-spacing: 0.08em;
   text-align: center;
 }
 
@@ -30,5 +32,5 @@
   line-height: 1.4;
   letter-spacing: -0.02em;
   text-align: center;
-  color: #989899;
+  color: blueviolet;
 }
