@@ -81,11 +81,9 @@
 }
 .icon {
   color: #1b414b;
-  fill: currentColor;
 }
 
 .icon:hover,
 .icon:focus {
   color: #062730;
-  fill: currentColor;
 }
